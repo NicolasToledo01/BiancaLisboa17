@@ -75,26 +75,4 @@ Minha prioridade neste momento é construir uma **base sólida antes de avançar
 
 ---
 
-## 🧭 Minha jornada em TI
 
-```text
-2026
- │
- ├── 🎓 Sistemas de Informação
- │
- ├── 🎨 Design Profissional
- │
- ├── 🌐 Desenvolvimento Front-end
- │
- ├── 🧠 Algoritmos e Pensamento Computacional
- │
- ├── 🗄️ Modelagem de Banco de Dados
- │
- ├── 🐧 Explorando Linux
- │
- ├── 🔧 Aprendendo Git & GitHub
- │
- └── 🚀 Construindo meus primeiros projetos
-        │
-        ▼
-     Próximos capítulos...
